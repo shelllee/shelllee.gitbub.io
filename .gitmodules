@@ -1,0 +1,6 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/shelllee/shelllee.gitbub.io.git
+[submodule "shelllee.gitbub.io"]
+	path = shelllee.gitbub.io
+	url = https://github.com/shelllee/shelllee.gitbub.io.git
